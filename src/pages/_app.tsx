@@ -10,6 +10,7 @@ function App({ Component, pageProps }: AppProps) {
         <title>React Avançado - Boilerplate</title>
         <link rel="shortcut icon" href="/img/vercel.svg" />
         <link rel="apple-touch-icon" href="/img/vercel.svg" />
+        <link rel="manifest" href="/matifest.json" />
         <meta name="description" content="A simple project" />
       </Head>
       <GlobalStyle />
