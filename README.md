@@ -13,5 +13,5 @@
 
 ### To use this:
 ```
-yarn create next-app -e
+yarn create next-app -e https://github.com/renanlimabl/BoilerplateNextJSTypeScript
 ```
